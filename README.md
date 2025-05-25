@@ -1,3 +1,11 @@
+
+###### <p align="center"> by Jan Ritt </p>
+
+## Angabe:
+<img src="Angabe.png">
+
+---
+
 - ### Tabelle erstellen
 
     Zuerst erstellen wir eine Tabelle namens `Artikel`, die eine Spalte für die Artikel-ID und eine Spalte für das JSON-Dokument enthält.
